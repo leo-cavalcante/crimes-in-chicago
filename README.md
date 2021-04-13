@@ -59,3 +59,5 @@ Here you may find the relevant links for the main documents produced during this
 [Crimes in Chicago - Crimes per Communities](https://github.com/leo-cavalcante/crimes-in-chicago/blob/main/Crimes%20per%20community.ipynb)
 
 [Crimes in Chicago - Time Analysis](https://github.com/leo-cavalcante/crimes-in-chicago/blob/main/Time%20Analysis.ipynb)
+
+*PS.: only the main files have been mentioned in this section, nevertheless the repository contains also other auxiliary files.*
